@@ -1,16 +1,16 @@
 def new_hash
   # return an empty hash
-  new_hash= {}
+  test = {}
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  my_hash = {name: "Bob"}
+  test = {name: "Bob"}
 end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-  pioneer{name: 'Grace Hopper'}
+  test = {name: 'Grace Hopper'}
 
 end
 
